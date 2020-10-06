@@ -1,0 +1,2 @@
+OnePlayerExperimentation	true
+NumberOfTrainingTries	1

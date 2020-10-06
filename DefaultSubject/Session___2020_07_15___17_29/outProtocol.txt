@@ -1,0 +1,5 @@
+StartIndex	0
+BlockSize	-1
+ReplayFailedTrialType	0
+File_To_Load
+trajectory01.txt
