@@ -14,3 +14,5 @@ The development of this experiment is not complete:
 * The data recording is not 100% reliable
 * The conduct of the experiment must be reviewed
 * The network implementation lacks flexibility: for the moment, the IP address must be manually entered by hand within Unity
+
+The depository for the Oculus Quest-side version of the app is here: https://github.com/New4rd/Double-Pong-Study-Oculus-Quest-Side-
